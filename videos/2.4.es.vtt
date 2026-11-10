@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.818
+Una señal digital no conoce la curva entera: solo su valor en ciertos instantes, los instantes de muestreo. Cada punto es una muestra.
+
+2
+00:00:08.450 --> 00:00:17.258
+El instante de la muestra n es n dividido entre la frecuencia de muestreo. A 8000 hercios, entre muestra y muestra pasan 125 microsegundos.
+
+3
+00:00:17.957 --> 00:00:26.261
+¿Cuántas muestras caben en un ciclo? La frecuencia de muestreo dividida entre la frecuencia de la señal: 8000 entre 500 son 16 muestras.
+
+4
+00:00:26.963 --> 00:00:33.273
+Si la frecuencia sube, caben menos muestras en cada ciclo. A 2000 hercios solo quedan 4 muestras por ciclo.
+
+5
+00:00:33.975 --> 00:00:42.132
+Con dos muestras por ciclo llegamos al límite: la frecuencia de Nyquist, la mitad de la frecuencia de muestreo. Lo estudiaremos en la unidad 5.

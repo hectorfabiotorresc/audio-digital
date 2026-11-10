@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.431
+The same sound can be represented in three ways: as pressure in the air, as voltage in a cable and as numbers in memory.
+
+2
+00:00:09.001 --> 00:00:19.876
+Pressure is measured in pascals. A 94 dB SPL tone has an RMS pressure of one pascal: 50,000 times the faintest audible pressure, 20 micropascals.
+
+3
+00:00:20.577 --> 00:00:28.079
+The microphone converts pressure into voltage according to its sensitivity. At 10 millivolts per pascal, one pascal gives 10 millivolts.
+
+4
+00:00:28.779 --> 00:00:40.716
+The converter measures that voltage many times per second and stores it as integers. With 16 bits, the numbers go from minus 32,768 to 32,767.

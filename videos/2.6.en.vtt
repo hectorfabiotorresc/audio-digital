@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.020
+If we add a signal to itself, in phase, the amplitude doubles: a six decibel reinforcement.
+
+2
+00:00:06.665 --> 00:00:15.552
+With the inverted copy the sum is zero at every sample: total cancellation. That is why two microphones with inverted polarity can make a sound disappear.
+
+3
+00:00:16.249 --> 00:00:23.713
+With a delayed copy, the result depends on the frequency. A delay of half a period cancels; a whole period reinforces.
+
+4
+00:00:24.415 --> 00:00:34.772
+If the two frequencies are almost equal, the relative phase turns slowly and the sum swells and fades. These are beats: as many per second as the difference between the frequencies.

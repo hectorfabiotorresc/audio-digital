@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.016
+Una gráfica de señal pone el tiempo en el eje horizontal y la amplitud en el vertical. Esta senoide de 100 hercios ocupa 20 milisegundos.
+
+2
+00:00:08.654 --> 00:00:13.809
+El mismo eje se puede leer en segundos: 20 milisegundos son dos centésimas de segundo.
+
+3
+00:00:14.514 --> 00:00:22.296
+En audio digital también se lee en número de muestra. Con 8000 muestras por segundo, los mismos 20 milisegundos son 160 muestras.
+
+4
+00:00:22.998 --> 00:00:29.036
+La conversión es una sola fórmula: el tiempo de la muestra n es n dividido entre la frecuencia de muestreo.
+
+5
+00:00:29.737 --> 00:00:36.600
+Un hercio es un ciclo por segundo. Cien hercios son cien ciclos en un segundo; en 20 milisegundos caben dos ciclos.

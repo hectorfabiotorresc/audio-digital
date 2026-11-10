@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.818
+A digital signal does not know the whole curve: only its value at certain instants, the sampling instants. Each point is a sample.
+
+2
+00:00:08.450 --> 00:00:17.258
+The instant of sample n is n divided by the sampling rate. At 8000 hertz, 125 microseconds pass between one sample and the next.
+
+3
+00:00:17.957 --> 00:00:26.261
+How many samples fit in one cycle? The sampling rate divided by the signal frequency: 8000 over 500 is 16 samples.
+
+4
+00:00:26.963 --> 00:00:33.273
+As the frequency rises, fewer samples fit in each cycle. At 2000 hertz only 4 samples per cycle remain.
+
+5
+00:00:33.975 --> 00:00:42.132
+With two samples per cycle we reach the limit: the Nyquist frequency, half the sampling rate. We will study it in unit 5.

@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.016
+A signal graph puts time on the horizontal axis and amplitude on the vertical axis. This 100 hertz sine spans 20 milliseconds.
+
+2
+00:00:08.654 --> 00:00:13.809
+The same axis can be read in seconds: 20 milliseconds are two hundredths of a second.
+
+3
+00:00:14.514 --> 00:00:22.296
+In digital audio it is also read as sample number. At 8000 samples per second, the same 20 milliseconds are 160 samples.
+
+4
+00:00:22.998 --> 00:00:29.036
+The conversion is a single formula: the time of sample n is n divided by the sampling rate.
+
+5
+00:00:29.737 --> 00:00:36.600
+One hertz is one cycle per second. One hundred hertz are one hundred cycles in a second; two cycles fit in 20 milliseconds.
