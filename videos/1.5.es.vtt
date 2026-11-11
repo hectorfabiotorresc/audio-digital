@@ -1,21 +1,21 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:07.638
+00:00:03.602 --> 00:00:11.414
 Una señal periódica repite siempre el mismo ciclo. La más simple es el tono puro, una senoide: en el espectro es una sola línea.
 
 2
-00:00:10.128 --> 00:00:18.969
+00:00:13.729 --> 00:00:22.578
 Una señal compleja periódica suma varias senoides cuyas frecuencias son múltiplos de una fundamental. Sigue repitiéndose, y su espectro tiene varias líneas.
 
 3
-00:00:21.523 --> 00:00:29.546
+00:00:25.123 --> 00:00:33.143
 Un impulso es un golpe brevísimo: toda su energía está en un instante. Su espectro es plano, porque contiene todas las frecuencias por igual.
 
 4
-00:00:32.089 --> 00:00:39.189
+00:00:35.691 --> 00:00:42.791
 El ruido blanco es aperiódico: nunca repite un ciclo. Reparte su energía en todas las frecuencias, de manera aleatoria.
 
 5
-00:00:41.752 --> 00:00:46.688
+00:00:45.369 --> 00:00:50.308
 En la misma escala de tiempo se ve la diferencia: tres señales que se repiten y una que no.

@@ -1,21 +1,21 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:07.638
+00:00:03.602 --> 00:00:11.414
 A periodic signal repeats the same cycle over and over. The simplest is the pure tone, a sine: in the spectrum it is a single line.
 
 2
-00:00:10.128 --> 00:00:18.969
+00:00:13.729 --> 00:00:22.578
 A complex periodic signal adds several sines whose frequencies are multiples of a fundamental. It still repeats, and its spectrum has several lines.
 
 3
-00:00:21.523 --> 00:00:29.546
+00:00:25.123 --> 00:00:33.143
 An impulse is an extremely short click: all its energy is in one instant. Its spectrum is flat, because it contains every frequency equally.
 
 4
-00:00:32.089 --> 00:00:39.189
+00:00:35.691 --> 00:00:42.791
 White noise is aperiodic: it never repeats a cycle. It spreads its energy over all frequencies, at random.
 
 5
-00:00:41.752 --> 00:00:46.688
+00:00:45.369 --> 00:00:50.308
 On the same time scale you can see the difference: three signals that repeat and one that does not.

@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.001 --> 00:00:07.776
+00:00:03.602 --> 00:00:11.378
 To get to know a system, such as a filter or a room, you send it a known test signal and compare what comes out with what went in.
 
 2
-00:00:08.178 --> 00:00:16.595
+00:00:11.782 --> 00:00:20.207
 A sine measures one frequency at a time. A sweep goes through all of them: the output amplitude traces the filter's response over time.
 
 3
-00:00:21.650 --> 00:00:29.446
+00:00:25.254 --> 00:00:33.056
 An impulse contains every frequency at once. What comes out is the impulse response, and its spectrum is the filter's frequency response.
 
 4
-00:00:30.147 --> 00:00:39.780
+00:00:33.754 --> 00:00:43.387
 Noise also contains every frequency; at the output, its spectrum traces the shape of the filter. It sounds more natural than an impulse, but you have to average because it is random.

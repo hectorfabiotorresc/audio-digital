@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:06.025
+00:00:03.603 --> 00:00:09.857
 Imagina un punto que gira en un círculo. Visto de lado, su altura sube y baja: dibuja una senoide.
 
 2
-00:00:08.001 --> 00:00:13.596
+00:00:11.604 --> 00:00:17.200
 El coseno es la misma curva adelantada un cuarto de ciclo: empieza en el máximo en lugar de empezar en cero.
 
 3
-00:00:14.294 --> 00:00:24.451
+00:00:17.897 --> 00:00:28.055
 Una vuelta completa es un ciclo. Lo que tarda es el período, T; los ciclos por segundo son la frecuencia. Una es el inverso de la otra: T es igual a uno sobre f.
 
 4
-00:00:27.000 --> 00:00:34.325
+00:00:30.603 --> 00:00:37.929
 En el espacio, ese mismo ciclo ocupa una longitud de onda. A 250 hercios en el aire mide un metro con treinta y siete.

@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:06.025
+00:00:03.603 --> 00:00:09.857
 Imagine a point spinning around a circle. Seen from the side, its height rises and falls: it draws a sine.
 
 2
-00:00:08.001 --> 00:00:13.596
+00:00:11.604 --> 00:00:17.200
 The cosine is the same curve shifted ahead by a quarter cycle: it starts at the maximum instead of at zero.
 
 3
-00:00:14.294 --> 00:00:24.451
+00:00:17.897 --> 00:00:28.055
 One full turn is a cycle. The time it takes is the period, T; the cycles per second are the frequency. Each is the inverse of the other: T equals one over f.
 
 4
-00:00:27.000 --> 00:00:34.325
+00:00:30.603 --> 00:00:37.929
 In space, that same cycle spans one wavelength. At 250 hertz in air it is one point three seven meters long.
