@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.001 --> 00:00:09.223
+00:00:03.602 --> 00:00:12.830
 Each meter answers a question. The peak meter says whether the signal will clip; the RMS meter says how much energy it has and comes close to loudness.
 
 2
-00:00:09.608 --> 00:00:18.262
+00:00:13.209 --> 00:00:21.863
 A short hit raises the peak a lot and the RMS only a little; a sustained note does the opposite. That is why one meter is not enough: you look at both.
 
 3
-00:00:21.310 --> 00:00:30.348
+00:00:24.912 --> 00:00:33.948
 To compare two signals you must use the same analysis window: a 300 millisecond RMS and a 10 millisecond one give different numbers for the same sound.
 
 4
-00:00:31.046 --> 00:00:37.541
+00:00:34.651 --> 00:00:41.146
 Rule of thumb: the peak for headroom, the RMS for loudness and the spectrum for timbre and noise.

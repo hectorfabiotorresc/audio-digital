@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:06.020
+00:00:03.603 --> 00:00:09.842
 Si sumamos una señal consigo misma, en fase, la amplitud se duplica: es un refuerzo de seis decibelios.
 
 2
-00:00:06.665 --> 00:00:15.552
+00:00:10.270 --> 00:00:19.159
 Con la copia invertida la suma es cero en cada muestra: cancelación total. Por eso dos micrófonos con la polaridad invertida pueden hacer desaparecer un sonido.
 
 3
-00:00:16.249 --> 00:00:23.713
+00:00:19.852 --> 00:00:27.315
 Con una copia retardada, el resultado depende de la frecuencia. Un retardo de medio período cancela; un período entero refuerza.
 
 4
-00:00:24.415 --> 00:00:34.772
+00:00:28.018 --> 00:00:38.367
 Si las dos frecuencias son casi iguales, la fase relativa gira despacio y la suma sube y baja. Son los batimientos: tantos por segundo como la diferencia entre las frecuencias.
