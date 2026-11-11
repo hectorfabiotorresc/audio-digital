@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:07.431
+00:00:03.602 --> 00:00:11.203
 Un mismo sonido puede representarse de tres maneras: como presión en el aire, como voltaje en un cable y como números en una memoria.
 
 2
-00:00:09.001 --> 00:00:19.876
+00:00:12.603 --> 00:00:23.480
 La presión se mide en pascales. Un tono de 94 decibelios SPL tiene una presión eficaz de un pascal: 50 000 veces la presión mínima audible, 20 micropascales.
 
 3
-00:00:20.577 --> 00:00:28.079
+00:00:24.178 --> 00:00:31.684
 El micrófono convierte la presión en voltaje según su sensibilidad. Con 10 milivoltios por pascal, un pascal da 10 milivoltios.
 
 4
-00:00:28.779 --> 00:00:40.716
+00:00:32.380 --> 00:00:44.321
 El conversor mide ese voltaje muchas veces por segundo y lo guarda como números enteros. Con 16 bits, los números van de menos 32 768 a 32 767.

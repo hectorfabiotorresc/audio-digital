@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:10.310
+00:00:03.602 --> 00:00:13.909
 En decibelios, las ganancias se suman. Una señal con pico en menos 12 dBFS que pasa por 6 dB de ganancia sale con pico en menos 6 dBFS.
 
 2
-00:00:10.687 --> 00:00:19.453
+00:00:14.288 --> 00:00:23.057
 El margen es la distancia en decibelios entre el pico de la señal y el límite de la etapa. Con un pico de menos 6 dBFS quedan 6 dB de margen.
 
 3
-00:00:20.153 --> 00:00:26.983
+00:00:23.753 --> 00:00:30.581
 Si la ganancia supera el margen, la señal choca contra el límite y se recorta: los picos se aplanan y aparece distorsión.
 
 4
-00:00:32.032 --> 00:00:39.596
+00:00:35.632 --> 00:00:43.196
 En una cadena de etapas, las ganancias y atenuaciones se suman en decibelios; en cada etapa hay que vigilar que el pico no pase del límite.
