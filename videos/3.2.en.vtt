@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.500
+The peak is the largest absolute value of the signal. The RMS, the root of the mean of the squares, measures its energy. A sine with a peak of 1 has an RMS of 0.707.
+
+2
+00:00:12.878 --> 00:00:22.224
+Two signals with the same peak can have very different energies. The square has an RMS equal to its peak; an impulse train has almost no energy.
+
+3
+00:00:22.920 --> 00:00:33.897
+The crest factor is the ratio between peak and RMS. The sine has 3 dB; the square, 0 dB; a drum recording can exceed 20 dB.
+
+4
+00:00:34.598 --> 00:00:43.070
+Loudness follows RMS more than peak. With the same peak, the square sounds much louder than the sine: listen to them one after the other.

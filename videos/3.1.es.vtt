@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.765
+El decibelio compara dos cantidades con un logaritmo. Para amplitudes, como presión o voltaje, se usa 20 por el logaritmo de la razón; para potencias, 10.
+
+2
+00:00:10.127 --> 00:00:22.577
+Doblar la amplitud suma unos 6 dB y multiplicarla por diez suma 20 dB. Los decibelios convierten las multiplicaciones en sumas: escucha cómo cada escalón baja 6 dB, la mitad de la amplitud.
+
+3
+00:00:26.622 --> 00:00:40.524
+Un decibelio solo tiene sentido con una referencia. En el aire, el dB SPL compara la presión con 20 micropascales, el umbral de audición: 94 dB SPL es un pascal, y 120 dB SPL ya duele.
+
+4
+00:00:41.221 --> 00:00:52.459
+En digital la referencia es el fondo de escala, el valor más grande que se puede guardar: cero dBFS. Todo lo demás es negativo; media amplitud es menos 6 dBFS.
+
+5
+00:00:53.160 --> 00:01:04.929
+Los equipos analógicos usan dBu y dBV, con referencias de 0,775 y de 1 voltio. Antes de comparar dos números en decibelios, pregunta siempre: ¿respecto de qué?

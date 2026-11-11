@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.500
+El pico es el valor absoluto más grande de la señal. El RMS, la raíz de la media de los cuadrados, mide su energía. Una senoide de pico 1 tiene un RMS de 0,707.
+
+2
+00:00:12.878 --> 00:00:22.224
+Dos señales con el mismo pico pueden tener energías muy distintas. La cuadrada tiene un RMS igual a su pico; un tren de impulsos casi no tiene energía.
+
+3
+00:00:22.920 --> 00:00:33.897
+El factor de cresta es la razón entre el pico y el RMS. La senoide tiene 3 dB; la cuadrada, 0 dB; una grabación de batería puede pasar de 20 dB.
+
+4
+00:00:34.598 --> 00:00:43.070
+La sonoridad sigue más al RMS que al pico. Con el mismo pico, la cuadrada suena mucho más fuerte que la senoide: escúchalas una tras otra.

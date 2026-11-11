@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.310
+In decibels, gains add up. A signal peaking at minus 12 dBFS that goes through 6 dB of gain comes out peaking at minus 6 dBFS.
+
+2
+00:00:10.687 --> 00:00:19.453
+Headroom is the distance in decibels between the signal peak and the limit of the stage. With a peak at minus 6 dBFS there are 6 dB of headroom.
+
+3
+00:00:20.153 --> 00:00:26.983
+If the gain exceeds the headroom, the signal hits the limit and clips: the peaks flatten and distortion appears.
+
+4
+00:00:32.032 --> 00:00:39.596
+In a chain of stages, gains and attenuations add up in decibels; at every stage you must check that the peak stays below the limit.
