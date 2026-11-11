@@ -1,21 +1,21 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:09.604
+00:00:03.601 --> 00:00:13.414
 Esta ecuación describe cualquier senoide. Tiene cuatro números: la amplitud A, la frecuencia angular omega, la fase inicial phi y la componente continua C.
 
 2
-00:00:10.247 --> 00:00:17.226
+00:00:13.847 --> 00:00:20.827
 A es la amplitud de pico: la distancia del centro de la onda a su máximo. Si se duplica, la onda crece al doble.
 
 3
-00:00:17.926 --> 00:00:25.795
+00:00:21.525 --> 00:00:29.395
 C es el valor medio, o componente continua: sube o baja toda la curva. No se oye, pero le quita margen a la señal antes de recortar.
 
 4
-00:00:26.494 --> 00:00:32.714
+00:00:30.097 --> 00:00:36.315
 Omega es la frecuencia angular: cuántos radianes recorre el ciclo por segundo. Es dos pi por la frecuencia.
 
 5
-00:00:33.416 --> 00:00:40.789
+00:00:37.018 --> 00:00:44.390
 Phi es la fase inicial: en qué punto del ciclo empieza la onda. Noventa grados son pi medios radianes, un cuarto de vuelta.

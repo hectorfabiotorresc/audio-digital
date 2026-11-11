@@ -1,21 +1,21 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:09.604
+00:00:03.601 --> 00:00:13.414
 This equation describes any sine. It has four numbers: the amplitude A, the angular frequency omega, the initial phase phi and the DC offset C.
 
 2
-00:00:10.247 --> 00:00:17.226
+00:00:13.847 --> 00:00:20.827
 A is the peak amplitude: the distance from the center of the wave to its maximum. If it doubles, the wave grows twice as tall.
 
 3
-00:00:17.926 --> 00:00:25.795
+00:00:21.525 --> 00:00:29.395
 C is the mean value, or DC offset: it moves the whole curve up or down. It is not heard, but it takes headroom away before clipping.
 
 4
-00:00:26.494 --> 00:00:32.714
+00:00:30.097 --> 00:00:36.315
 Omega is the angular frequency: how many radians the cycle covers per second. It is two pi times the frequency.
 
 5
-00:00:33.416 --> 00:00:40.789
+00:00:37.018 --> 00:00:44.390
 Phi is the initial phase: at which point of the cycle the wave starts. Ninety degrees are pi over two radians, a quarter turn.

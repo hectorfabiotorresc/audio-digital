@@ -1,21 +1,21 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:09.765
+00:00:03.602 --> 00:00:13.362
 The decibel compares two quantities with a logarithm. For amplitudes, such as pressure or voltage, it is 20 times the logarithm of the ratio; for powers, 10.
 
 2
-00:00:10.127 --> 00:00:22.577
+00:00:13.729 --> 00:00:26.180
 Doubling the amplitude adds about 6 dB and multiplying it by ten adds 20 dB. Decibels turn multiplications into additions: listen to each step drop 6 dB, half the amplitude.
 
 3
-00:00:26.622 --> 00:00:40.524
+00:00:30.226 --> 00:00:44.129
 A decibel only makes sense with a reference. In air, dB SPL compares the pressure with 20 micropascals, the threshold of hearing: 94 dB SPL is one pascal, and 120 dB SPL already hurts.
 
 4
-00:00:41.221 --> 00:00:52.459
+00:00:44.825 --> 00:00:56.069
 In digital audio the reference is full scale, the largest value that can be stored: zero dBFS. Everything else is negative; half amplitude is minus 6 dBFS.
 
 5
-00:00:53.160 --> 00:01:04.929
+00:00:56.765 --> 00:01:08.532
 Analog gear uses dBu and dBV, with references of 0.775 and 1 volt. Before comparing two numbers in decibels, always ask: relative to what?
