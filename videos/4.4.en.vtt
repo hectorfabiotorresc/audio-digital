@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:08.342
+00:00:03.602 --> 00:00:11.948
 Fourier showed that every periodic signal is a sum of sines. With one, three and ten terms, the sum gets closer and closer to a square.
 
 2
-00:00:08.744 --> 00:00:18.821
+00:00:12.346 --> 00:00:22.425
 The FFT computes the spectrum of a block of N samples. Its points, the bins, are spaced by the sampling rate divided by N: that is the resolution.
 
 3
-00:00:19.526 --> 00:00:30.524
+00:00:23.129 --> 00:00:34.128
 Two sines 30 hertz apart merge into a single peak with N of 1024, and separate with N of 8192. More resolution requires longer blocks.
 
 4
-00:00:31.224 --> 00:00:42.145
+00:00:34.829 --> 00:00:45.750
 The window smooths the edges of the block. Without a window, the energy of a sine that falls between two bins leaks all over the spectrum; Hann and Blackman reduce that leakage at the cost of slightly wider peaks.

@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.939
+00:00:03.601 --> 00:00:09.770
 La ganancia multiplica cada muestra por un número. Mayor que uno amplifica; entre cero y uno atenúa.
 
 2
-00:00:06.596 --> 00:00:12.174
+00:00:10.194 --> 00:00:15.772
 Invertir la polaridad es multiplicar por menos uno: la curva se refleja sobre el eje horizontal.
 
 3
-00:00:12.873 --> 00:00:18.843
+00:00:16.469 --> 00:00:22.443
 La suma de dos señales se hace muestra por muestra: el resultado en cada instante es la suma de los dos valores.
 
 4
-00:00:21.390 --> 00:00:31.191
+00:00:24.985 --> 00:00:34.790
 Un retardo desplaza la señal en el tiempo. Un milisegundo a 48 000 muestras por segundo son 48 muestras: cada muestra sale 48 posiciones más tarde.

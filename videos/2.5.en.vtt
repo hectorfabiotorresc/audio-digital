@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.939
+00:00:03.601 --> 00:00:09.770
 Gain multiplies each sample by a number. Greater than one amplifies; between zero and one attenuates.
 
 2
-00:00:06.596 --> 00:00:12.174
+00:00:10.194 --> 00:00:15.772
 Inverting the polarity means multiplying by minus one: the curve is mirrored across the horizontal axis.
 
 3
-00:00:12.873 --> 00:00:18.843
+00:00:16.469 --> 00:00:22.443
 Two signals are added sample by sample: the result at each instant is the sum of both values.
 
 4
-00:00:21.390 --> 00:00:31.191
+00:00:24.985 --> 00:00:34.790
 A delay shifts the signal in time. One millisecond at 48,000 samples per second is 48 samples: each sample comes out 48 positions later.

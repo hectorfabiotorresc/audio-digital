@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:08.342
+00:00:03.602 --> 00:00:11.948
 Fourier mostró que toda señal periódica es una suma de senoides. Con uno, tres y diez términos, la suma se acerca cada vez más a una cuadrada.
 
 2
-00:00:08.744 --> 00:00:18.821
+00:00:12.346 --> 00:00:22.425
 La FFT calcula el espectro de un bloque de N muestras. Sus puntos, los bins, están separados por la frecuencia de muestreo dividida entre N: esa es la resolución.
 
 3
-00:00:19.526 --> 00:00:30.524
+00:00:23.129 --> 00:00:34.128
 Dos senoides a 30 hercios de distancia se funden en un solo pico con N de 1024, y se separan con N de 8192. Más resolución exige bloques más largos.
 
 4
-00:00:31.224 --> 00:00:42.145
+00:00:34.829 --> 00:00:45.750
 La ventana suaviza los bordes del bloque. Sin ventana, la energía de una senoide que cae entre dos bins se escapa a todo el espectro; Hann y Blackman reducen esa fuga a cambio de picos un poco más anchos.
