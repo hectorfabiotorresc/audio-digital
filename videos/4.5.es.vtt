@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.694
+El ruido blanco tiene la misma potencia en cada hercio: su densidad espectral es plana, como la luz blanca contiene todos los colores.
+
+2
+00:00:09.943 --> 00:00:18.798
+Pero cada octava tiene el doble de hercios que la anterior. Por eso la potencia por octava del ruido blanco sube 3 dB cada octava y suena agudo, siseante.
+
+3
+00:00:19.495 --> 00:00:28.615
+El ruido rosa tiene la misma potencia en cada octava: su densidad baja 3 dB por octava. Suena equilibrado, y se usa para medir salas y altavoces.
+
+4
+00:00:31.163 --> 00:00:40.788
+El ruido marrón baja 6 dB por octava en densidad, es decir, 3 dB por octava en potencia. Concentra la energía en los graves y suena como un trueno lejano.

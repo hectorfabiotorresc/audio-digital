@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.511
+Una etapa lineal entrega lo que recibe multiplicado por una ganancia: su curva de transferencia es una recta. El recorte duro aplana todo lo que pasa del límite.
+
+2
+00:00:09.895 --> 00:00:17.343
+La saturación suave curva la transferencia poco a poco, como una válvula o una cinta: redondea los picos en lugar de cortarlos.
+
+3
+00:00:18.041 --> 00:00:27.397
+Recortar una senoide de forma simétrica agrega armónicos impares: el tercero, el quinto, el séptimo. La onda se parece cada vez más a una cuadrada.
+
+4
+00:00:32.446 --> 00:00:42.048
+La distorsión armónica total compara la energía de los armónicos con la de la fundamental. Una senoide pura tiene cero por ciento; una cuadrada, 48 por ciento.

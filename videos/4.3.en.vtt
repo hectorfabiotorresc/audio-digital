@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.616
+The waveform shows amplitude over time, but it does not say which frequencies are present. This sweep rises from 100 hertz to 10 kilohertz in four seconds.
+
+2
+00:00:13.367 --> 00:00:17.673
+The spectrum shows which frequencies are in a block of time, but not when they appear.
+
+3
+00:00:18.370 --> 00:00:27.326
+The spectrogram shows both: time on the horizontal axis, frequency on the vertical axis and intensity as color. The sweep appears as a rising line.
+
+4
+00:00:28.021 --> 00:00:40.004
+An octave is double the frequency. Octave bands have centers at 125, 250, 500 hertz, 1, 2, 4 and 8 kilohertz, and their width grows with frequency.

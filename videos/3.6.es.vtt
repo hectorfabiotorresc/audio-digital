@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.001 --> 00:00:09.223
+Cada medidor responde a una pregunta. El de pico dice si la señal se va a recortar; el RMS dice cuánta energía tiene y se acerca a la sonoridad.
+
+2
+00:00:09.608 --> 00:00:18.262
+Un golpe breve sube mucho el pico y poco el RMS; una nota sostenida, al revés. Por eso un mismo medidor no basta: se miran los dos.
+
+3
+00:00:21.310 --> 00:00:30.348
+Para comparar dos señales hay que usar la misma ventana de análisis: un RMS de 300 milisegundos y uno de 10 dan números distintos para el mismo sonido.
+
+4
+00:00:31.046 --> 00:00:37.541
+Regla práctica: el pico para el margen, el RMS para la sonoridad y el espectro para el timbre y el ruido.

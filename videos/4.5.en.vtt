@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.694
+White noise has the same power in every hertz: its spectral density is flat, just as white light contains every color.
+
+2
+00:00:09.943 --> 00:00:18.798
+But each octave has twice as many hertz as the one below. That is why the power per octave of white noise rises 3 dB per octave and it sounds high and hissy.
+
+3
+00:00:19.495 --> 00:00:28.615
+Pink noise has the same power in every octave: its density falls 3 dB per octave. It sounds balanced, and it is used to measure rooms and loudspeakers.
+
+4
+00:00:31.163 --> 00:00:40.788
+Brown noise falls 6 dB per octave in density, that is, 3 dB per octave in power. It concentrates its energy in the lows and sounds like distant thunder.

@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.059
+The four classic synthesizer shapes are the sine, the square, the triangle and the sawtooth. They all have the same pitch; their timbre changes.
+
+2
+00:00:09.470 --> 00:00:19.333
+The sawtooth has every harmonic, with an amplitude that falls as one over n: the second is half, the third a third. It sounds bright, like bowed strings.
+
+3
+00:00:21.885 --> 00:00:28.134
+The square has only odd harmonics, which also fall as one over n. It sounds hollow, similar to a clarinet.
+
+4
+00:00:30.685 --> 00:00:39.802
+The triangle also has only odd harmonics, but they fall as one over n squared: the third is one ninth. That is why it sounds soft, almost like a sine.
+
+5
+00:00:42.352 --> 00:00:51.011
+In short: the sine is a single harmonic; the sawtooth has them all; the square and the triangle, only the odd ones, with different slopes.

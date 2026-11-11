@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.616
+La forma de onda muestra la amplitud en el tiempo, pero no dice qué frecuencias hay. Este barrido sube de 100 hercios a 10 kilohercios en cuatro segundos.
+
+2
+00:00:13.367 --> 00:00:17.673
+El espectro muestra qué frecuencias hay en un bloque de tiempo, pero no cuándo aparecen.
+
+3
+00:00:18.370 --> 00:00:27.326
+El espectrograma muestra las dos cosas: el tiempo en horizontal, la frecuencia en vertical y la intensidad en color. El barrido aparece como una línea que sube.
+
+4
+00:00:28.021 --> 00:00:40.004
+Una octava es el doble de la frecuencia. Las bandas de octava tienen centros en 125, 250, 500 hercios, 1, 2, 4 y 8 kilohercios, y su ancho crece con la frecuencia.
