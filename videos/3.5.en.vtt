@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:09.511
+00:00:03.604 --> 00:00:13.115
 A linear stage delivers what it receives multiplied by a gain: its transfer curve is a straight line. Hard clipping flattens everything past the limit.
 
 2
-00:00:09.895 --> 00:00:17.343
+00:00:13.499 --> 00:00:20.951
 Soft saturation bends the transfer curve gradually, like a tube or tape: it rounds the peaks instead of cutting them.
 
 3
-00:00:18.041 --> 00:00:27.397
+00:00:21.646 --> 00:00:31.000
 Clipping a sine symmetrically adds odd harmonics: the third, the fifth, the seventh. The wave looks more and more like a square.
 
 4
-00:00:32.446 --> 00:00:42.048
+00:00:36.054 --> 00:00:45.664
 Total harmonic distortion compares the energy of the harmonics with that of the fundamental. A pure sine has zero percent; a square, 48 percent.

@@ -1,17 +1,17 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:07.283
+00:00:03.603 --> 00:00:10.893
 Todo sistema tiene un piso de ruido: lo que queda cuando no hay señal. En el espectro es la alfombra sobre la que se paran los picos.
 
 2
-00:00:07.665 --> 00:00:17.036
+00:00:11.271 --> 00:00:20.640
 La relación señal/ruido compara la potencia de la señal con la del ruido: diez por el logaritmo de su razón. Con RMS se usa veinte por el logaritmo.
 
 3
-00:00:17.736 --> 00:00:25.906
+00:00:21.342 --> 00:00:29.516
 Cuando el ruido se acerca a la señal, el tono se pierde; al bajar el ruido aparece limpio. Escucha la relación subir de 0 a 40 dB.
 
 4
-00:00:30.957 --> 00:00:39.577
+00:00:34.566 --> 00:00:43.192
 El rango dinámico va del nivel máximo antes del recorte hasta el piso de ruido. En digital lo fija la cantidad de bits: unos 6 dB por bit.
